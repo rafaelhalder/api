@@ -15,7 +15,7 @@ HTTP##
 301 movido permanentemente
 302 movido
 
-400 bad request
+400 bad request -> quando for enviado algo errado
 401 não autorizado
 404 não encontrado
 
